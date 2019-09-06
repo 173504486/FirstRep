@@ -2,3 +2,7 @@ This is test txt!!
 Aaa
 bbb
 ccc
+
+hot_fix add
+master add
+hotfix
